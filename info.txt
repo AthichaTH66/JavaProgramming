@@ -1,0 +1,5 @@
+Student_id : 2313110864
+Student Name : Athicha Wongphan
+Major : IT
+Level : 1
+Faculty : Information Technology
