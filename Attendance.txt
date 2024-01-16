@@ -1,4 +1,4 @@
 ID:2313110864
 Name-Surname:Athicha Wongphan
-Date: Jan-09-2023
-Topic: Class and Object
+Date: Jan-16-2023
+Topic: Encapsulation Concept
